@@ -1,0 +1,3 @@
+usr/include/*/qt5/QtCharts/5.*
+usr/lib/*/libQt5Charts.la
+usr/lib/*/qt5/mkspecs/modules/qt_lib_charts_private.pri

@@ -1,0 +1,9 @@
+Document: qt5-charts
+Title: Qt 5 Charts module
+Author: The Qt Company Ltd
+Abstract: This is the HTML documentation for Qt 5 Charts
+Section: Programming/C++
+
+Format: HTML
+Index: /usr/share/doc/qtcharts5-doc-html/html/qtcharts/qtcharts-index.html
+Files: /usr/share/doc/qtcharts5-doc-html/html/qtcharts/*.html
